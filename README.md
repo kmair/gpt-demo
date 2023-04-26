@@ -1,2 +1,2 @@
 # gpt-demo
-A demo app for future
+A demo app for future reference
